@@ -1,3 +1,4 @@
+# Warnick Seamons
 def encode(password):
     # Encoding each digit by increasing by 3 with wrap-around using modulo 10 arithmetic
     encoded = ''
